@@ -20,7 +20,7 @@ names(assign) <-c("Date","Time","Global_active_power","Global_reactive_power","V
 #change to date format and strip date time
 assign$datetime <- paste(assign$Date, assign$Time)
 
-
+ 
 
 
 #strip date time
