@@ -22,7 +22,7 @@ assign$datetime <- paste(assign$Date, assign$Time)
 
 
 
-
+ 
 #strip date time
 assign$posixDate <- strptime(assign$datetime, "%d/%m/%Y %H:%M:%S")
 
