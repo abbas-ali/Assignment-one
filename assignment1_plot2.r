@@ -1,4 +1,4 @@
-#This is the first assignment of the Data Scientist Toolkit Exploratory Data Analysis
+#This is the second plot of the first assignment of the Data Scientist Toolkit Exploratory Data Analysis
 
 #Download file
 download.file("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip","c:/r/assign1.zip")
